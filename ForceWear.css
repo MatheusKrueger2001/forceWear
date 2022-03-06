@@ -97,3 +97,54 @@
 body .scrollToTop{
   background-color: #000;
 }
+
+/* Instagram */
+div#instagram h2 a{
+  color: #000
+}
+
+/* NewSletter */
+#barraNewsletter.posicao-rodape .componente .texto-newsletter svg.icon path{
+  stroke: #000 !important;
+}
+
+#barraNewsletter.posicao-rodape .componente .newsletter-assinar:hover{
+  background-color: #000;
+  /*! color: #fff !important; */
+}
+
+#barraNewsletter.posicao-rodape .componente .newsletter-assinar{
+  color: #black;
+  border-color: #000
+}
+#barraNewsletter{
+  background-color: #fff !important;
+  border-bottom: 1px solid #000;
+  border-top: 1px solid #000;
+}
+
+#barraNewsletter.posicao-rodape .componente .newsletter-assinar::before {
+ color: #000; 
+}
+
+#barraNewsletter.posicao-rodape .componente .newsletter-assinar:hover::before{
+  color: #fff
+}
+
+#barraNewsletter.posicao-rodape .componente input[type="text"]{
+  border-color: #000;
+}
+
+#barraNewsletter.posicao-rodape .componente .texto-newsletter{
+  text-transform: capitalize;
+  color: #000;
+}
+
+/* Rodape */
+#rodape .institucional{
+  background-color: #fff;
+}
+
+#rodape .lista-redes ul li a{
+  background-color: #000
+}
