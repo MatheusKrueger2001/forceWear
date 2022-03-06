@@ -22,6 +22,13 @@
   color: #000;
 }
 
+#cabecalho.fixed .open-menu svg path{
+  fill: #000;
+}
+
+#cabecalho.fixed .open-menu{
+  color: #000;
+}
 
 /* Cores do Menu */
 .full.menu{
@@ -61,3 +68,32 @@
   border-color: #000
 }
 
+/* Banner Inicial */
+
+.flex-direction-nav li a{
+  background-color: #fff
+}
+
+.flex-direction-nav li a .icon *{
+  fill: black
+}
+
+.banner .flexslider .flex-control-paging li a.flex-active{
+  background: #000
+}
+
+/* Listagem de produtos*/
+
+#listagemProdutos .titulo-categoria{
+  text-align: center !important;
+}
+
+#listagemProdutos.listagem .listagem-item .acoes-produto .botao-comprar, .listagem.aproveite-tambem .listagem-item .acoes-produto .botao-comprar{
+  background-color: #000
+}
+
+
+/* Botão para voltar ao inicio */
+body .scrollToTop{
+  background-color: #000;
+}
