@@ -150,3 +150,10 @@ div#instagram h2 a{
 #rodape .lista-redes ul li a{
   background-color: #000
 }
+
+
+/* Listagem de produto */
+.coluna div.componente.newsletter .botao{
+  background-color: #000;
+  border-color: #fff
+}
