@@ -92,7 +92,6 @@
   background-color: #000
 }
 
-
 /* Botão para voltar ao inicio */
 body .scrollToTop{
   background-color: #000;
@@ -114,8 +113,9 @@ div#instagram h2 a{
 }
 
 #barraNewsletter.posicao-rodape .componente .newsletter-assinar{
-  color: #black;
-  border-color: #000
+  color: #000;
+  border-color: #000;
+  
 }
 #barraNewsletter{
   background-color: #fff !important;
@@ -124,11 +124,13 @@ div#instagram h2 a{
 }
 
 #barraNewsletter.posicao-rodape .componente .newsletter-assinar::before {
- color: #000; 
+ color: #000;
+  text-transform: capitalize;
 }
 
 #barraNewsletter.posicao-rodape .componente .newsletter-assinar:hover::before{
-  color: #fff
+  color: #fff;
+  text-transform: capitalize;
 }
 
 #barraNewsletter.posicao-rodape .componente input[type="text"]{
