@@ -1,1 +1,63 @@
+/* Cores do topo do cabeçalho */
+#cabecalho{
+  background-color: #fff;
+}
+
+#cabecalho .conteudo-topo .inferior li a{
+  color: #000;
+}
+#cabecalho .actions > li > a svg path{
+  fill: rgb(0,0,0) !important;
+}
+
+#cabecalho .actions .carrinho a .icon *{
+  fill: #000;
+}
+
+#cabecalho .actions .cart .carrinho .cor-secundaria{
+  color: #000;
+}
+
+#cabecalho .actions .cart .carrinho .cor-secundaria span{
+  color: #000;
+}
+
+
+/* Cores do Menu */
+.full.menu{
+  background-color: #fff;
+  border-top: 1px solid #000;
+}
+
+.full.menu .conteiner li.all-categories.com-filho .titulo{
+  color: black
+}
+
+.full.menu .conteiner li.all-categories.com-filho .titulo svg path{
+    fill: rgb(0,0,0) !important;
+}
+
+.full.menu .conteiner .nivel-um > li > a > .titulo{
+  color: #000
+}
+
+.full.menu .conteiner .nivel-um > li.offers > a > .titulo{
+  color: #000 !important;
+}
+
+.full.menu .conteiner .nivel-um > li.offers .icon path {
+  fill: #000 !important;
+}
+
+.full.menu .conteiner li.all-categories.com-filho .nivel-dois .titulo{
+  color: #000 !important;
+}
+
+.full.menu .conteiner .nivel-um > li.offers:hover > a > .titulo{
+  color: #000 !important;
+}
+
+.full.menu .conteiner .nivel-um > li:hover > a{
+  border-color: #000
+}
 
