@@ -106,6 +106,10 @@
   font-size: 15px !important;
 }
 
+.listagem .listagem-item .nome-produto{
+  font-family: 'Nixie One','Open Sans','Fira Sans' !important;
+}
+
 /* Botão para voltar ao inicio */
 body .scrollToTop{
   background-color: #000;
@@ -170,3 +174,4 @@ div#instagram h2 a{
   background-color: #000;
   border-color: #fff
 }
+
