@@ -37,7 +37,7 @@
 }
 
 .full.menu .conteiner li.all-categories.com-filho .titulo{
-  color: black
+  color: #000;
 }
 
 .full.menu .conteiner li.all-categories.com-filho .titulo svg path{
@@ -87,9 +87,18 @@
 #listagemProdutos .titulo-categoria{
   text-align: center !important;
 }
+#listagemProdutos.listagem .titulo-categoria strong, #listagemProdutos.listagem > .titulo, .listagem.aproveite-tambem .titulo-categoria strong, .listagem.aproveite-tambem > .titulo{
+  font-family: 'Graduante';
+  text-transform: none;
+}
+
+.botao{
+  font-family: 'Graduante'
+}
 
 #listagemProdutos.listagem .listagem-item .acoes-produto .botao-comprar, .listagem.aproveite-tambem .listagem-item .acoes-produto .botao-comprar{
-  background-color: #000
+  background-color: #000;
+  font-size: 15px !important;
 }
 
 /* Botão para voltar ao inicio */
