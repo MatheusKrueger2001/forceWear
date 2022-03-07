@@ -88,12 +88,12 @@
   text-align: center !important;
 }
 #listagemProdutos.listagem .titulo-categoria strong, #listagemProdutos.listagem > .titulo, .listagem.aproveite-tambem .titulo-categoria strong, .listagem.aproveite-tambem > .titulo{
-  font-family: 'Graduante';
+  font-family: 'Graduante','Open Sans','Fira Sans';
   text-transform: none;
 }
 
 .botao{
-  font-family: 'Graduante'
+  font-family: 'Graduante','Open Sans','Fira Sans';
 }
 
 #listagemProdutos.listagem .listagem-item .acoes-produto .botao-comprar, .listagem.aproveite-tambem .listagem-item .acoes-produto .botao-comprar{
