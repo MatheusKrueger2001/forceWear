@@ -188,3 +188,37 @@ div#instagram h2 a{
 .modal-modalNewsletter #modalNewsletter .componente .interno .interno-conteudo .texto-newsletter{
   text-transform: uppercase;
 }
+
+.full.menu .conteiner .nivel-um .all-categories.com-filho::after{
+  display: none;
+}
+
+.full.menu .conteiner .nivel-um .all-categories.com-filho{
+  display: none;
+}
+
+#rodape .links-rodape a, #rodape .links-rodape span{
+ color: #000;
+}
+
+.caixa-destaque .botao{
+  color: #fff !important;
+  background: #000 !important;
+}
+
+.icon-search::before {
+  color: #000;
+}
+
+.coluna div.componente.newsletter .titulo svg path{
+  stroke: #fff
+}
+
+#st-1 .st-btn[data-network="facebook"], #st-1 .st-btn[data-network="googleplus"], #st-1 .st-btn[data-network="pinterest"], #st-1 .st-btn[data-network="twitter"]{
+  background-color: #000 !important;
+}
+
+#st-1 .st-btn[data-network="facebook"]:hover, #st-1 .st-btn[data-network="googleplus"]:hover, #st-1 .st-btn[data-network="pinterest"]:hover, #st-1 .st-btn[data-network="twitter"]:hover{
+  background-color: #dcdcdc !important;
+}
+
