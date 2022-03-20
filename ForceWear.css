@@ -222,3 +222,7 @@ div#instagram h2 a{
   background-color: #dcdcdc !important;
 }
 
+#descricao .tabs .tab-link{
+  color: white !important;
+  background-color: #000 !important;;
+}
