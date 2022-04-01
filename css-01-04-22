@@ -1,0 +1,59 @@
+.modal-modalNewsletter #modalNewsletter .componente .interno .interno-conteudo .input-conteiner .botao{
+  background: #000 !important;
+  border: 1px solid #000;
+}
+
+.modal-modalNewsletter #modalNewsletter .componente .interno .interno-conteudo .texto-newsletter:first-letter{
+  text-transform: uppercase;
+}
+
+.modal-modalNewsletter #modalNewsletter .componente .interno .interno-conteudo .input-conteiner input{
+  border: 1px solid black;
+  color: #000 !important;
+  text-transform: uppercase;
+  background-color: #fff; 
+}
+
+#cabecalho .conteudo-topo .inferior li a{
+  width: 30px;
+}
+
+#cabecalho .actions li > a > span{
+  display: none;
+  width: 30px !important;
+}
+
+#cabecalho .actions{
+  justify-content: center !important;
+}
+
+#cabecalho .actions > li{
+  display: block;
+  float: right;
+  margin: 0px 20px;
+  width: 50px !important;
+  flex: none;
+}
+
+#cabecalho .carrinho a span{
+  display: none;
+}
+
+#cabecalho .conteudo-topo .inferior .span4.hidden-phone{
+  width: 30%
+}
+
+#form-buscar{
+  border: 1px solid #000;
+  border-radius: 10px;
+}
+
+#cabecalho .busca input, #cabecalho .busca input:focus{
+  border-radius: 10px;
+  background: #fff !important;
+}
+
+#barraNewsletter.posicao-rodape .componente .texto-newsletter{
+  text-transform: uppercase;
+  font-size: 22px
+}
